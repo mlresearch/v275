@@ -1,0 +1,90 @@
+---
+title: Proceedings of Machine Learning Research
+booktitle: Proceedings of the Fourth Conference on Causal Learning and Reasoning
+shortname: CLeaR
+conference_number: '4'
+year: '2025'
+start: &1 2025-05-07
+end: 2025-05-09
+published: 2025-06-15
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+volume: '275'
+layout: proceedings
+issn: 2640-3498
+id: CLeaR2025
+month: 0
+tex_title: Proceedings of the Fourth Conference on Causal Learning and Reasoning
+cycles: false
+bibtex_editor: Huang, Biwei and Drton, Mathias
+editor:
+- given: Biwei
+  family: Huang
+- given: Mathias
+  family: Drton
+description: |
+  Proceedings of the Fourth Conference on Causal Learning and Reasoning
+    Held in Lausanne, Switzerland on 07-09 May 2025
+
+  Published as Volume 275 by the Proceedings of Machine Learning Research on 15 June 2025.
+
+  Volume Edited by:
+    Biwei Huang
+    Mathias Drton
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 07--09 May
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v275"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v275
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v275
+email: ''
+conference:
+  name: Causal Learning and Reasoning
+  url: https://www.cclear.cc/2025
+  location: Lausanne, Switzerland
+  dates:
+  - *1
+  - 2025-05-08
+  - 2025-05-09
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: clear25.bib
+# Site settings
+# Original source:  clear25.bib
