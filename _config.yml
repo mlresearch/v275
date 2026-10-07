@@ -4,7 +4,7 @@ booktitle: Proceedings of the Fourth Conference on Causal Learning and Reasoning
 shortname: CLeaR
 conference_number: '4'
 year: '2025'
-start: &1 2025-05-07
+start: 2025-05-07
 end: 2025-05-09
 published: 2025-06-15
 publisher: PMLR
@@ -70,7 +70,7 @@ conference:
   url: https://www.cclear.cc/2025
   location: Lausanne, Switzerland
   dates:
-  - *1
+  - 2025-05-07
   - 2025-05-08
   - 2025-05-09
 analytics:
